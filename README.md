@@ -2,7 +2,7 @@
 A privacy-first, modern Chrome extension for current weather and 5-day forecasts worldwide.
 Built with React, TypeScript, Vite, and Tailwind CSS.
 
->>>Published on Chrome Web Store - 'https://chromewebstore.google.com/detail/kelfigfhomnnebheemdoobjedlcbohfa?utm_source=item-share-cb'
+>Published on Chrome Web Store - 'https://chromewebstore.google.com/detail/kelfigfhomnnebheemdoobjedlcbohfa?utm_source=item-share-cb'
 
 ##🚀 Features
 -Current weather for any city (temperature, humidity, wind, condition)
