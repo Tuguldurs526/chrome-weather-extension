@@ -49,31 +49,31 @@ Built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**.
 #### 1. Clone the repository
 
 
-'git clone https://github.com/yourusername/weather-extension.git'
-'cd weather-extension'
+```git clone https://github.com/yourusername/weather-extension.git```
+```cd weather-extension```
 
 
 #### 2. Install dependencies
 
-'npm install'
+```npm install```
 
 
 #### 3. Development build (for popup preview)
 
-npm run dev
-Open 'http://localhost:5173' to preview the popup in your browser.
+```npm run dev```
+Open ```http://localhost:5173``` to preview the popup in your browser.
 
 
 #### 4. Build for Chrome Extension
 
-'npm run build'
+```npm run build```
 This will generate a dist/ folder with all extension files.
 
 #### 5. Load the extension in Chrome
 
-Open chrome://extensions (enable Developer mode)
-Click Load unpacked
-Select the dist/ folder
+- Open chrome://extensions (enable Developer mode)
+- Click Load unpacked
+- Select the dist/ folder
 
 
 ## 🔑 How to Use
