@@ -24,6 +24,7 @@ Built with React, TypeScript, Vite, and Tailwind CSS.
  - Git – Version control
 
 #🛠️ Getting Started
+
 ##🟢 How to Get an OpenWeather API Key
  - Go to the OpenWeather website: 'https://openweathermap.org/'
  - Sign up for a free account (or log in if you already have one).
@@ -78,13 +79,17 @@ Your API key and preferences are only stored locally in your browser.
 All weather data is fetched directly from OpenWeather.
 
 ##🖼️ Screenshots
+
 ![alt text](image.png)
 
 ##📦 Contributing
+
 Pull requests and issues are welcome!
 
 ##📄 License
+
 MIT
 
 ##🙋 Questions?
+
 Open an issue or contact [tuguldur.js83@gmail.com or github.com/Tuguldurs526].
